@@ -260,6 +260,23 @@ ls data/optimized/client_*_*.csv
 
 ## 🤝 Contributing
 
+We welcome contributions! Please see our [Contributing Guide](CONTRIBUTING.md) for detailed instructions on:
+
+- How to fork and clone the repository
+- Setting up your development environment  
+- Creating feature branches and pull requests
+- Code style and testing guidelines
+
+**Quick Start for Contributors:**
+```bash
+# Check your git setup and get guidance
+python scripts/git_fork_helper.py
+
+# See detailed contributing instructions
+cat CONTRIBUTING.md
+```
+
+### Guidelines
 1. Follow the modular architecture
 2. Add comprehensive documentation
 3. Include tests for new features
